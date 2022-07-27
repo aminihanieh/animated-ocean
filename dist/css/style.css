@@ -55,7 +55,7 @@ svg {
 }
 .locations-container .info {
   background: white;
-  padding: 3em;
+  padding: 2.5em;
   position: relative;
   margin-top: -0.5em;
 }
@@ -78,7 +78,7 @@ svg {
 
 img {
   width: 100%;
-  height: 15em;
+  height: 27vh;
   -o-object-fit: cover;
      object-fit: cover;
 }/*# sourceMappingURL=style.css.map */
